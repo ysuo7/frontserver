@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&display=swap);.truncate-title{cursor:pointer;position:relative}.truncate-title:before{background-color:#fff;box-shadow:0 2px 5px #0003;content:attr(data-title);display:none;left:0;padding:5px;position:absolute;top:-100%;white-space:nowrap;z-index:10}.truncate-title:hover:before{display:block}
+/*# sourceMappingURL=main.c76325dc.css.map*/
